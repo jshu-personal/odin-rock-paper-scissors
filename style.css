@@ -1,0 +1,19 @@
+#winLoss {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#buttons {
+    display: flex;
+    justify-content: center;
+}
+
+#buttons button {
+    margin: 0 10px;
+}
+
+#winLoss p {
+    margin: 20px;
+}
